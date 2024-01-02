@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2023-12-30
-img: keywords.png
+img: keywords_2.png
 alt: image-alt
 project-date: Dec 2023
 client: Unnamed Social Media Giant
