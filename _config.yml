@@ -63,3 +63,5 @@ defaults:
       type: "posts"
     values:
       permalink: ""
+
+future: true
