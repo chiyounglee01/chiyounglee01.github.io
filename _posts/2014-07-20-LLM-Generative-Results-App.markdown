@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 1
-date: 2023-09-03
+date: 2025-08-03
 img: llm_generative_01.png
 alt: image-alt
 project-date: July 2026
