@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 8
+modal-id: 1
 date: 2023-09-03
 img: llm_generative_01.png
 alt: image-alt
